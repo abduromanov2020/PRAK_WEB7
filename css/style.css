@@ -1,0 +1,84 @@
+html {
+	position: relative;
+}
+
+
+
+body {
+	margin-top: 70px;
+}
+
+body, .jumbotron {
+	background-image: url(../img/bg3.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+nav {
+	background-color: rgba(255,255,255, .2);
+}
+
+.jumbotron {
+	height: 400px;
+	color: #ddd;
+
+}
+
+.jumbotron img {
+	width: 250px;
+}
+
+.about {
+	padding-top: 40px;
+	min-height: 400px;
+	margin-top: -37px;
+		background-color: rgba(255,255,255, .5);
+}
+
+hr {
+	width: 250px;
+	border-top: 3px solid #666;
+}
+
+.gallery {
+	padding-bottom: 60px;
+	padding-top: 40px;
+}
+
+
+.order {
+	padding-top: 60px;
+	min-height: 350px;
+		background-color: rgba(255,255,255, .5);
+}
+
+
+
+
+
+.col-sm-3 {
+	padding-top: 40px;
+}
+
+.btn {
+	margin-top: 40px;
+}
+
+footer {
+	position: absolute;
+	width: 100%;
+	padding-top: 6px;
+	height: 100px;
+	color: #999;
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+footer img {
+	height: 70px;
+}
+
+footer p {
+	margin-top: -7px;
+}
